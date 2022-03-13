@@ -1,0 +1,136 @@
+
+Assigmnt 3: conver C code into Dart programming
+
+ 
+1: write a program that take number and calculate sum, average and product.
+product of 2 number= 2100
+sum of 2 number= 100
+Average of 2 number=50.0
+
+
+2: write a program that take age and display in month and years.
+age is 3
+age in month 36
+age in days 1095
+ 
+ 
+3: write a program that print area of triangle when three sides a ,b, c are given.
+print area =6.0
+ 
+ 
+4: write a program that take miles and dispaly in kilomiles.
+ 3 miles= 4.827 Kilometes
+ 
+ 
+5: write a program that print square and cube of a value
+square of 3 = 9
+cube of   3 = 27
+ 
+ 
+6: write a program that count number of pages into days
+you have read = 60 pages
+and remain  = 40 pages
+ 
+ 
+7: write a program that calculate distance
+car can cover 15.899999999999999 miles in 3 liters
+ 
+ 
+8: write a program that display fee collection 
+total fee = 6000
+ 
+ 
+9: write a program that convert tempareture  from fahrenheit to celsius degree
+temperature in celsius -15.0
+ 
+ 
+10: write a program that print data in 3 different lines 
+value 1 = 10.0
+value 2 = 5.0
+value 3 =  3.3333333333333335
+ 
+ 
+11: write  a program that display output in new line
+1 2 3 4 5 
+6 7 8 9 10
+ 
+ 
+12:write a program that display student recorde in 4 line using character, string and floating values
+    Student record
+Student Name: SARAH
+Student Age: 20
+Student Marks: 85.0
+ 
+ 
+13: write a program that calculate volume and surface using area and circumferance 
+circumfrance is = 523.33
+print area is =314.0
+ 
+ 
+14:write a program  that calculate the volume of cube by measures.
+length = 12, height = 5 , width = 3  volum of cube is = 180
+ 
+
+15: write a program that compute distance between two points.
+ x1 = 3, x2 = 5,y1 =4, y2 = 7  distance of two points is 13
+ 
+ 
+16: write a program that swap the value of 3 variable.
+ X = 2, Y = 3, Z = 5
+New values are :
+ X = 5, Y= 2, Z= 3
+ 
+ 
+17: write a program that calculate the arc of lenght
+angle = 34, radius = 6 lenght of arc = 204
+ 
+ 
+18: write a program that convert pounds into kilograms.
+20 pounds = 9.070 kilograms 
+ 
+ 
+19: write a program that compute the area of sectorof circule.
+Radius =4, Theta = 45 Area of Triangle is 360.0 
+ 
+ 
+20: write a program that compute the logarthim of value to the base.
+the log of 5.0 = 2.322
+ 
+ 
+21: write a program that take letter and display next two letter.
+the program is not right true
+ 
+ 
+22: write a program that input 5 number and calculate sum of its digits.
+Digit = 5000.0 sum of its digits 55.5
+ 
+ 
+23: write a program that take basic salary and calculate 35% dearness allowance ,25% house rentand display gross salary.
+your gross salary = 48000.0
+ 
+ 
+24: write a program that take time in hh:mm:ss formate, adds both times and display the total time.
+Total houre = 11.19hh
+Total mintues mm= 11.17mm
+Total second ss= 10.00ss
+ 
+25 : write a program that calculate compound intrest and display .
+the compund interest = 7856.986930949844
+ 
+ 
+26: write a program that dispaly the output, number its square and cube .
+ Number:    Square:    Cube:
+    6 7 8 9 10         4          6 7 8 9 106 7 8 9 106 7 8 9 106 7 8 9 10
+    3         9          27
+    4         16          64
+ 
+ 
+27: write a program that take 5 student marks and display total marks and percentage.
+total marks = 320
+Avg = 64.0
+ 
+ 
+28: write a program that display ASCII
+The Number is 5 and its ASCII is 5434 
+ 
+ 
